@@ -1,0 +1,6 @@
+{
+    "TOKEN":"DoNotShareYourToken",
+    "PREFIX":"--",
+    "PRESENCE":"--help",
+    "START_WEB_SERVER": true
+}
